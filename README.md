@@ -1,6 +1,6 @@
 # Welcome to Darshan's GitHub 👋
 
-Hello! I'm [Darshan], a [Aspiring Full Stack Engineer] based in [Trichy, Tamil Nadu, India]. Here you'll find a glimpse of my coding journey and projects.
+Hello! I'm Darshan, a Aspiring Full Stack Engineer based in Trichy, Tamil Nadu, India. Here you'll find a glimpse of my coding journey and projects.
 
 ## 🚀 About Me
 
