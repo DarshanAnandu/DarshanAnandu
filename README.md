@@ -13,9 +13,7 @@ Hello! I'm [Darshan], a [Aspiring Full Stack Engineer] based in [Trichy, Tamil N
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=DarshanAnandu&theme=dark&hide_border=false)<br/>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DarshanAnandu&theme=dark&hide_border=false)<br/>
 
 ## 📫 Let's Connect
 
